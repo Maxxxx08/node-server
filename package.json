@@ -1,0 +1,16 @@
+{
+  "name": "lista-de-tareas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "listadetareas.js",
+  "scripts": {
+    "start": "nodemon listadetareas.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
